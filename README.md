@@ -19,11 +19,13 @@ The field of NLP has evolved rapidly in the past few years, leading to innovatio
 [Kaggle Disaster Tweet Classification](https://www.kaggle.com/c/nlp-getting-started/overview)
 
 2. Data Exploration
+
 We used LDA topic modeling to cluster and identify key features of the disaster vs. non-disaster tweets.
 
 2. Embedding
 
 We explore the following embedding techniques:
+
     1. TF-IDF
     2. GloVe
     3. BERT sentence-level embedding
